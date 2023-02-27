@@ -32,4 +32,3 @@ train_data = lgb.Dataset(data, label=label)
 w = np.random.rand(500, )
 train_data.set_weight(w)
 ```
-And you can use Dataset.set_init_score() to set initial score, and Dataset.set_group() to set group/query data for ranking tasks.
