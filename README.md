@@ -1,6 +1,9 @@
 # lightgbm_practice
 
-Python code in this repo are Python3.9.12
+Python code in this repo are Python3.9.12, running someone pyfile using:
+```bash
+pipenv run python xxx.py
+```
 
 ## Usage of lgb.Dataset()
 
