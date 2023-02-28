@@ -32,3 +32,7 @@ train_data = lgb.Dataset(data, label=label)
 w = np.random.rand(500, )
 train_data.set_weight(w)
 ```
+
+## Ref
+
+https://lightgbm.readthedocs.io/en/v3.3.2/
