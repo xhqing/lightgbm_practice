@@ -1,6 +1,6 @@
 # lightgbm_practice
 
-Python code in this repo are Python3.9.12, running someone pyfile using:
+Python code in this repo are Python3.9.12, running pyfile using:
 ```bash
 pipenv run python xxx.py
 ```
